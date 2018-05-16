@@ -16,6 +16,7 @@
 require 'luhn'
 require 'fib'
 require 'collatz'
+require 'tree'
 
 RSpec.configure do |config|
   # rspec-expectations config goes here. You can use an alternate
